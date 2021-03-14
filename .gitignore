@@ -3,3 +3,5 @@
 node_modules
 bower_components
 .idea
+workspace.code-workspace
+package-lock.json

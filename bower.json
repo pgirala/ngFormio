@@ -17,5 +17,7 @@
     "test",
     "tests"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "ng-formio": "^7.1.17"
+  }
 }
